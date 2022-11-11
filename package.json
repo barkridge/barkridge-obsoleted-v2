@@ -18,6 +18,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@headlessui/react": "^1.7.4",
+    "@heroicons/react": "^2.0.13",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "autoprefixer": "^10.4.13",
